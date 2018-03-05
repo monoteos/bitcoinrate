@@ -1,0 +1,13 @@
+{
+  "dataSource": {
+    "cexio": {
+      "endpoint": "wss://ws.cex.io/ws/"
+    },
+    "coinmarketcap": {
+      "endpoint": "https://api.coinmarketcap.com/v1/ticker/bitcoin/",
+      "interval": 10000
+    }
+  },
+  "precision": 4,
+  "timeFormat": "mm:ss"
+}
